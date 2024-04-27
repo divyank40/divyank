@@ -8,7 +8,7 @@ import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 
 
-import { Grid } from '@material-ui/core';
+import Grid from '@mui/material/Grid';
 
 import Button from "@mui/material/Button";
 import CardActions from "@mui/material/CardActions";
